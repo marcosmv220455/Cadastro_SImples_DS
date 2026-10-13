@@ -16,3 +16,10 @@ while True:
         print("==========================")
         print("=====Tela de Cadastro=====")
         print("==========================")
+    elif (opção == 2):
+        print("==========================")
+        print("===Tela de Login===")
+        print("==========================")
+       else:
+           print("Você esá saindo do cadastro, até mais!")
+           break
